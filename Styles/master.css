@@ -1,0 +1,37 @@
+.seccion_perfil{
+    border: 2px solid black;
+    border-radius: 5%;
+}
+
+.fotoPerfil{
+    width: 200px;
+    height: 200;
+    border-radius: 100px; 
+    border: 1px solid black";
+}
+
+.seccionPerfil{
+    border-radius: 40px;
+    border: 2px solid black;
+}
+
+#list{
+    color: limegreen;
+    font-family: 'Times New Roman';
+    list-style-position: inside;
+}
+
+#Headings{
+    color: darksalmon;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium';
+}
+
+a{
+    color: limegreen;
+}
+
+.backround{
+    color: azure;
+    opacity: 50%;
+}
