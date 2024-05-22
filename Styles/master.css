@@ -6,13 +6,16 @@ div{
 .seccion_perfil{
     border: 2px solid black;
     border-radius: 5%;
+    margin-left: 40px;
 }
 
 .fotoPerfil{
+    justify-content: center;
     width: 200px;
     height: 200;
     border-radius: 100px; 
     border: 1px solid black";
+    
 }
 
 .seccionPerfil{
@@ -27,7 +30,7 @@ div{
 }
 
 #Headings{
-    color: darksalmon;
+    color: navy;
     font-size: large;
     font-family: 'Franklin Gothic Medium';
 }
@@ -36,7 +39,10 @@ a{
     color: limegreen;
 }
 
-.backround{
-    color: azure;
-    opacity: 50%;
+span {
+    background-color: cadetblue;
+}
+
+p{
+    text-align: center;
 }
