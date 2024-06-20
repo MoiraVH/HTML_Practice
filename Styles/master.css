@@ -1,10 +1,19 @@
+body{
+    background-color: #DEDBD2;
+}
+
 div{
     margin-left: 20px;
     font-family: 'Times New Roman';
 }
 
+h1 {
+    font-family: 'Franklin Gothic Medium';
+    color: #1C2121;
+}
+
 .seccion_perfil{
-    border: 2px solid black;
+    border: 2px solid #1C2121;
     border-radius: 5%;
     margin-left: 40px;
 }
@@ -12,37 +21,41 @@ div{
 .fotoPerfil{
     justify-content: center;
     width: 200px;
-    height: 200;
-    border-radius: 100px; 
-    border: 1px solid black";
+    height: 200px;
+    border-radius: 500px; 
+    border: 1px solid #1C2121;
     
 }
 
 .seccionPerfil{
     border-radius: 40px;
-    border: 2px solid black;
+    border: 1px solid #D5485D;
+    margin-left: 200px;
+    margin-right: 200px;
+    justify-content: center;
 }
 
 #list{
-    color: limegreen;
+    color: #4a5759;
     font-family: 'Times New Roman';
     list-style-position: inside;
 }
 
 #Headings{
-    color: navy;
+    color: #D5485D;
     font-size: large;
     font-family: 'Franklin Gothic Medium';
 }
 
+h2{}
+
 a{
-    color: limegreen;
+    color: #4a5759;
 }
 
-span {
-    background-color: cadetblue;
-}
+
 
 p{
     text-align: center;
+    font-family:'Times New Roman';
 }
